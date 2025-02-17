@@ -69,9 +69,5 @@ Tempo de Reação:
 
 ---
 
-## **Código Fonte**
 
-O código-fonte deste projeto está disponível no GitHub: [Jogo de Tempo de Reação](https://github.com/BrunoBC21/Bitdolag---Tempo-de-Rea-o)
-
----
 
