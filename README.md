@@ -2,7 +2,7 @@
 
 ## **Introdução**
 
-Este projeto implementa um **jogo de tempo de reação** utilizando a **placa Raspberry Pi Pico** com um **display OLED** e **dois botões físicos**. O jogo mede o tempo de reação do jogador ao pressionar um botão após um sinal visual. O tempo é exibido no **display OLED** e pode ser repetido quantas vezes o usuário desejar.
+Este projeto implementa um **jogo de tempo de reação** utilizando a **placa BitDogLab com Raspberry Pi Pico** com um **display OLED** e **dois botões físicos**. O jogo mede o tempo de reação do jogador ao pressionar um botão após um sinal visual. O tempo é exibido no **display OLED** e pode ser repetido quantas vezes o usuário desejar.
 
 ---
 
